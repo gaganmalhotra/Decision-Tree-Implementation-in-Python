@@ -2,7 +2,7 @@
 Coded decision tree in python to generate a model with accuracy 91% on the test dataset
 
 
-Algorithm Explanation:
+### Algorithm Explanation:
 - Take Data input from CSV file
 - Decision tree is built as below-
     - Find which attribute has the maximum information gain by finding the
@@ -23,8 +23,7 @@ the model as below-
     - Accuracy is calculated using the number of instances
     
 
-How to run the program:
-
+### How to run the program:
 To train the decision tree example:
 ``` python train.py train_data.csv ```
 
